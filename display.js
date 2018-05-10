@@ -38,7 +38,7 @@ var colors = [
     "#3f51b5",
     "#03a9f5",
     "#ea1e63",
-    "#fec107"
+    "#fec107", "purple"
 ];
 
 function keyPressed() {
